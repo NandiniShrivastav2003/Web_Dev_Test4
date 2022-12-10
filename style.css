@@ -32,3 +32,9 @@ img {
     font-size: 58px;
     margin-left: 251px;
   }
+  .btn{
+    width:100px;
+    height:100px;
+    background-color: beige;
+    font-size: 19px;
+  }
